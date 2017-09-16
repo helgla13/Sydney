@@ -1,0 +1,53 @@
+*{
+    font-family: Arial;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+h1 a{
+    font-size: 17px;
+    color: darkblue;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+h1{
+    margin: 0px;
+}
+p.sayt{
+    color: green;
+    margin-bottom: -10px;
+    margin-top: 2px;
+}
+p.sayt:after{
+   content: '\25bc';
+    font-size: 10px;
+    margin-left: 5px;
+}
+p.rez{
+font-size: 14px;
+    color: #555555;
+}
+div.poisk{
+width: 700px;
+    padding: 5px;
+    position: relative;
+    float: left;
+}
+div.info{
+width: 500px;
+    float: right;
+    border: solid 1px #cccccc;
+}
+div{
+    margin-bottom: 10px;
+}
+p{
+    margin-bottom: 20px;
+}
+.pic2:before{
+    margin-right: 10px;
+    content: '\2192';
+}
