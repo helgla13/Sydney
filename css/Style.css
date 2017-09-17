@@ -1,5 +1,5 @@
 *{
-    font-family: Arial;
+    font-family: "Arial";
     margin-left: 2%;
     margin-right: 3%;
 }
@@ -31,13 +31,13 @@ font-size: 14px;
     color: #555555;
 }
 div.poisk{
-width: 700px;
-    padding: 5px;
+width: 50%;
+    padding: 2%;
     position: relative;
     float: left;
 }
 div.info{
-width: 500px;
+width: 35%;
     float: right;
     border: solid 1px #cccccc;
 }
