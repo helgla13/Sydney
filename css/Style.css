@@ -1,10 +1,12 @@
 *{
     font-family: "Arial";
+    color: #444444;
+    font-size: 15px;
     margin-left: 2%;
     margin-right: 3%;
 }
 h1 a{
-    font-size: 17px;
+    font-size: 18px;
     color: darkblue;
 }
 a{
@@ -29,6 +31,12 @@ p.sayt:after{
 p.rez{
 font-size: 14px;
     color: #555555;
+   margin-left: 65px;
+}
+p.gor {
+    font-size: 14px;
+    color: #555555;
+    margin-left: 10px;
 }
 div.poisk{
 width: 50%;
@@ -40,9 +48,27 @@ div.info{
 width: 35%;
     float: right;
     border: solid 1px #cccccc;
+    position: relative;
+}
+div.info2{
+    width: 35%;
+    float: right;
+    border: solid 1px #cccccc;
+    border-top-color: transparent;
+    position: relative;
+    padding-bottom: 1%;
+}
+div.info3{
+    width: 35%;
+    float: right;
+    border: solid 1px #cccccc;
+    border-top-color: transparent;
+    position: relative;
+    color: #888888;
+    font-size: 17px;
 }
 div{
-    margin-bottom: 10px;
+    margin-bottom: auto;
 }
 p{
     margin-bottom: 20px;
@@ -50,4 +76,35 @@ p{
 .pic2:before{
     margin-right: 10px;
     content: '\2192';
+}
+.pic3{
+    width: 125px;
+    height: 80px;
+    margin: auto;
+}
+.pic4{
+    width: 237px;
+    height: 150px;
+    margin: auto;
+}
+.jaloba{
+    color: #888888;
+    margin: 72px;
+}
+.pic5{
+    width: 80px;
+    height: 60px;
+    margin: 6px;
+}
+p.otzyv{
+    color: #888888;
+    font-style: italic;
+    font-size: 12px;
+    margin-left: 1220px;
+}
+.infogor{
+    font-size: 13px;
+}
+br.otstup{
+    margin-bottom: 5%;
 }
