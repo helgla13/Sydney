@@ -78,13 +78,13 @@ p{
     content: '\2192';
 }
 .pic3{
-    width: 125px;
-    height: 80px;
+    width: 19%;
+    height: 19%;
     margin: auto;
 }
 .pic4{
-    width: 237px;
-    height: 150px;
+    width: 49%;
+    height: 40%;
     margin: auto;
 }
 .jaloba{
@@ -92,8 +92,8 @@ p{
     margin: 72px;
 }
 .pic5{
-    width: 80px;
-    height: 60px;
+    width: 16%;
+    height: 15%;
     margin: 6px;
 }
 p.otzyv{
@@ -107,4 +107,13 @@ p.otzyv{
 }
 br.otstup{
     margin-bottom: 5%;
+}
+a{
+    color: darkblue;
+}
+a.koled{
+    color: #444444;
+}
+br.otstup2{
+    margin-bottom: 8px;
 }
